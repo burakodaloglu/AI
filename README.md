@@ -14,7 +14,6 @@ Ahmet Yiğit UYSAL <br>
 Umut CAN <br>
 Efe VARDALI <br>
 
-<p align="right">(<a href="#top">Başa geri dön</a>)</p>
 
 ## Sayfalar Hakkında Bilgiler -->
 ### Home: <br>
@@ -33,7 +32,7 @@ Fotoğrafları ve yazan haberleri takımların kendi resmi web sayfalarından al
 
 İstenilen csv dosyasını Visual Studio kullanarak datayı okumayı makinaya öğrettik. Bir web projesi oluşturduk ve controllers altında Odev.cs oluşturarak dataları çektik. Daha sonra yeniden Views aldtında Odev klasörü oluşturarak içerisine predict.cshtml oluşturduk. HTML form oluşturarak kullanıcıdan takımların ismini, gol sayılarını, korner sayılarını ve şutlarını kullanıcının girdiği verilerden ev sahibi takımın korner sayısını tahmin ettirdik. <br>
 
-<p align="right">(<a href="#top">Başa geri dön</a>)</p>
+
 
 ## Kaynak -->
 * [StackOverFlow](https://stackoverflow.com/)
