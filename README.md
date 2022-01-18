@@ -26,7 +26,9 @@ Fotoğrafları ve yazan haberleri takımların kendi resmi web sayfalarından al
 
 ### Footballers: <br>
 
-Öncelikle Models altında Footballer adında class oluşturduk. Bu classları yine Models klasörünün içinde bir Footballer.cs dosyası ile atadık. Models altında Footballers class oluşturduk ve içine dataları koyduk. Listele ekranı oluşturarak web formatında ekrana çıktı çıkardık. Bu sayfa içerisinden Premier Lig'den sezonun ilk yarısının en iyi ilk 11 oyuncusunu koyduk. Ziyaret edecek futbol severler için kendi 11 lerini oluşturması adına ekleme, düzeltme ve silme ekranı koyduk. <br>
+Öncelikle Models altında Footballers class oluşturduk ve içine dataları koyduk. Listele ekranı oluşturarak web formatında ekrana çıktı çıkardık. Bu sayfa içerisinden Premier Lig'den sezonun ilk yarısının en iyi ilk 11 oyuncusunu koyduk. Ziyaret edecek futbol severler için kendi 11'lerini oluşturması adına ekleme, düzeltme ve silme ekranı koyduk.
+Herkes kendi En İyi 11'ini oluşturabilir.
+<br>
 
 ### Prediction: <br>
 
